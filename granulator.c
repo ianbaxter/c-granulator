@@ -1,6 +1,6 @@
 /*
- * v9f08.c
- * Granulator by Ian Baxter
+ * granulator.c
+ * Author: Ian Baxter
  */
 
 #include <stdio.h>
