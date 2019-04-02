@@ -1,2 +1,2 @@
 # c-granulator
-Music Programming Project – Granulator
+For information on how to use the granulator please read the supporting documentation.
